@@ -1,0 +1,16 @@
+{
+  "name": "pulse-mock",
+  "version": "1.0.0",
+  "description": "generates data for TC pulse project",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "nock": "^9.0.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
